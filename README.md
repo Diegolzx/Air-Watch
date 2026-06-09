@@ -2,7 +2,7 @@
 
 ![Air-Watch Logo o Banner](https://img.shields.io/badge/Status-En%20Desarrollo-brightgreen?style=for-the-badge)
 
-🌐 **Visita el sitio en vivo:** [Enlace a la página web](#) *(Reemplaza este # con el enlace real de tu página instalada)*
+🌐 **Visita el sitio en vivo:** [Air-Watch Frontend](https://pag-integrador.pages.dev/)
 
 **Air-Watch** es una aplicación web moderna e interactiva diseñada como proyecto integrador. Desarrollada utilizando tecnologías de vanguardia para ofrecer una experiencia fluida, incluyendo visualización de modelos 3D y un panel de control con autenticación.
 
